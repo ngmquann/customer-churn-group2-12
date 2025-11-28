@@ -47,7 +47,3 @@ streamlit run src/app.py
 
 Sau khi chạy, truy cập vào địa chỉ: http://localhost:8501 trên trình duyệt.
 
-streamlit run src/app.py
-(Lưu ý: Đảm bảo file model.pkl nằm cùng thư mục với app.py hoặc cập nhật đúng đường dẫn)
-
-Sau khi chạy, truy cập vào địa chỉ: http://localhost:8501 trên trình duyệt.
