@@ -20,7 +20,9 @@ Machine Learning: Scikit-learn (Logistic Regression, Random Forest)
 Giao diện Demo: Streamlit
 
 ⚙️ Hướng dẫn cài đặt (Installation)
+
 <img width="602" height="589" alt="image" src="https://github.com/user-attachments/assets/bc261538-8b34-4e10-a98c-27385e5dd195" />
+
 <img width="549" height="126" alt="image" src="https://github.com/user-attachments/assets/905d8655-4889-4e4f-aafc-b0087fec1df5" />
 
 
